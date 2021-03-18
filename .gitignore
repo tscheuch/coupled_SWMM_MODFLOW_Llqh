@@ -9,6 +9,10 @@
 #ignore MF workspace
 /ACOPLE_LLANQUIHUE/LLANQUIHUE_MF_workspace
 
+#ignore previous versions
+
+/ACOPLE_LLANQUIHUE/ACOPLE_Llanquihue_V0.ipynb
+
 #ignore Results
 /ACOPLE_LLANQUIHUE/GDF_Results
 /ACOPLE_LLANQUIHUE/Iteracion_C_1
