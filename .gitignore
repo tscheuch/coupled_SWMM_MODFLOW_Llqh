@@ -28,12 +28,18 @@
 /ACOPLE_LLANQUIHUE/Iteracion_mod_prec
 /ACOPLE_LLANQUIHUE/Iteracion_S_1
 /ACOPLE_LLANQUIHUE/Iteracion_S_2
-/ACOPLE_LLANQUIHUE/Iteracion_S_4		
+/ACOPLE_LLANQUIHUE/Iteracion_S_4
+/ACOPLE_LLANQUIHUE/Figures		
 
 #Ignore Time_Series_Analysis
 /Time_Series_Llanquihue
-/ACOPLE_LLANQUIHUE/Figures
 
+
+#ignore SWMM analysis input
+/SWMM_Llanquihue/otras_versiones_inp
+/SWMM_Llanquihue/GIS
+/SWMM_Llanquihue/Subcatchment_Analysis.ipynb
+/SWMM_Llanquihue/Superficial_SWMM_llqh.ipynb
 
 /Notebooks/.ipynb_checkpoints
 /_ipynb_checkpoints
