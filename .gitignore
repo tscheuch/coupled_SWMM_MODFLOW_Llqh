@@ -1,0 +1,38 @@
+#ignore SWMM output files
+*.rpt
+*.out
+*.ini
+*.PNG
+*.svg
+
+#ignore MF workspace
+/ACOPLE_LLANQUIHUE/LLANQUIHUE_MF_workspace
+
+#ignore Results
+/ACOPLE_LLANQUIHUE/GDF_Results
+/ACOPLE_LLANQUIHUE/Iteracion_C_1
+/ACOPLE_LLANQUIHUE/Iteracion_C_2
+/ACOPLE_LLANQUIHUE/Iteracion_C_4
+/ACOPLE_LLANQUIHUE/Iteracion_C_5
+/ACOPLE_LLANQUIHUE/Iteracion_inf_2
+/ACOPLE_LLANQUIHUE/Iteracion_inf_2_S
+/ACOPLE_LLANQUIHUE/Iteracion_inf_3
+/ACOPLE_LLANQUIHUE/Iteracion_inf_3_S
+/ACOPLE_LLANQUIHUE/Iteracion_K_1
+/ACOPLE_LLANQUIHUE/Iteracion_K_2
+/ACOPLE_LLANQUIHUE/Iteracion_K_3
+/ACOPLE_LLANQUIHUE/Iteracion_K_4
+/ACOPLE_LLANQUIHUE/Iteracion_K_5
+/ACOPLE_LLANQUIHUE/Iteracion_K_6
+/ACOPLE_LLANQUIHUE/Iteracion_last
+/ACOPLE_LLANQUIHUE/Iteracion_mod_prec
+/ACOPLE_LLANQUIHUE/Iteracion_S_1
+/ACOPLE_LLANQUIHUE/Iteracion_S_2
+/ACOPLE_LLANQUIHUE/Iteracion_S_4		
+
+
+
+/Notebooks/.ipynb_checkpoints
+/_ipynb_checkpoints
+*.ipynb_checkpoints
+
