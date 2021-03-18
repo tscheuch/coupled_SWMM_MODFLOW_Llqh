@@ -4,6 +4,7 @@
 *.ini
 *.PNG
 *.svg
+*.JPG
 
 #ignore MF workspace
 /ACOPLE_LLANQUIHUE/LLANQUIHUE_MF_workspace
@@ -36,11 +37,13 @@
 
 
 #ignore SWMM analysis input
-/SWMM_Llanquihue/otras_versiones_inp
-/SWMM_Llanquihue/GIS
-/SWMM_Llanquihue/Subcatchment_Analysis.ipynb
-/SWMM_Llanquihue/Superficial_SWMM_llqh.ipynb
+/ACOPLE_LLANQUIHUE/SWMM_Llanquihue/otras_versiones_inp
+/ACOPLE_LLANQUIHUE/SWMM_Llanquihue/GIS
+/ACOPLE_LLANQUIHUE/SWMM_Llanquihue/Subcatchment_Analysis.ipynb
+/ACOPLE_LLANQUIHUE/SWMM_Llanquihue/Superficial_SWMM_llqh.ipynb
+/ACOPLE_LLANQUIHUE/SWMM_Llanquihue/uso_suelo.csv
 
+/ACOPLE_Llanquihue/GIS/SHAPES/stations
 /Notebooks/.ipynb_checkpoints
 /_ipynb_checkpoints
 *.ipynb_checkpoints
