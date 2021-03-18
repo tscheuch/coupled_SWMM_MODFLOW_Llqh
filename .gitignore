@@ -30,6 +30,9 @@
 /ACOPLE_LLANQUIHUE/Iteracion_S_2
 /ACOPLE_LLANQUIHUE/Iteracion_S_4		
 
+#Ignore Time_Series_Analysis
+/Time_Series_Llanquihue
+/ACOPLE_LLANQUIHUE/Figures
 
 
 /Notebooks/.ipynb_checkpoints
